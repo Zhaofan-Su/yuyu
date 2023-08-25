@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QWidget" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>3840</width>
+    <height>2160</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowOpacity">
+   <double>1.000000000000000</double>
+  </property>
+  <widget class="QVideoWidget" name="screen_14" native="true">
+   <property name="geometry">
+    <rect>
+     <x>1196</x>
+     <y>365</y>
+     <width>399</width>
+     <height>225</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QVideoWidget" name="screen_15" native="true">
+   <property name="geometry">
+    <rect>
+     <x>1645</x>
+     <y>1671</y>
+     <width>791</width>
+     <height>446</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QVideoWidget" name="screen_16" native="true">
+   <property name="geometry">
+    <rect>
+     <x>3299</x>
+     <y>473</y>
+     <width>346</width>
+     <height>195</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_1">
+   <property name="geometry">
+    <rect>
+     <x>1645</x>
+     <y>45</y>
+     <width>1106</width>
+     <height>623</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_10">
+   <property name="geometry">
+    <rect>
+     <x>2486</x>
+     <y>1970</y>
+     <width>250</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_11">
+   <property name="geometry">
+    <rect>
+     <x>3299</x>
+     <y>1032</y>
+     <width>345</width>
+     <height>195</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_12">
+   <property name="geometry">
+    <rect>
+     <x>3299</x>
+     <y>718</y>
+     <width>468</width>
+     <height>264</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_13">
+   <property name="geometry">
+    <rect>
+     <x>2801</x>
+     <y>412</y>
+     <width>453</width>
+     <height>256</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::NoFrame</enum>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_2">
+   <property name="geometry">
+    <rect>
+     <x>1283</x>
+     <y>139</y>
+     <width>312</width>
+     <height>176</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_3">
+   <property name="geometry">
+    <rect>
+     <x>747</x>
+     <y>365</y>
+     <width>399</width>
+     <height>225</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_4">
+   <property name="geometry">
+    <rect>
+     <x>436</x>
+     <y>641</y>
+     <width>1159</width>
+     <height>653</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_5">
+   <property name="geometry">
+    <rect>
+     <x>46</x>
+     <y>1102</y>
+     <width>340</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_6">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>1345</y>
+     <width>612</width>
+     <height>346</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_7">
+   <property name="geometry">
+    <rect>
+     <x>722</x>
+     <y>1345</y>
+     <width>873</width>
+     <height>492</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_8">
+   <property name="geometry">
+    <rect>
+     <x>1196</x>
+     <y>1892</y>
+     <width>399</width>
+     <height>225</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_9">
+   <property name="geometry">
+    <rect>
+     <x>2486</x>
+     <y>1671</y>
+     <width>442</width>
+     <height>249</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_17">
+   <property name="geometry">
+    <rect>
+     <x>1645</x>
+     <y>718</y>
+     <width>1604</width>
+     <height>903</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_1_No">
+   <property name="geometry">
+    <rect>
+     <x>1690</x>
+     <y>70</y>
+     <width>401</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei</family>
+     <pointsize>40</pointsize>
+     <underline>true</underline>
+    </font>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::NoFrame</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <property name="text">
+    <string>No.#00000001</string>
+   </property>
+   <property name="indent">
+    <number>-1</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="screen_1_time">
+   <property name="geometry">
+    <rect>
+     <x>1690</x>
+     <y>130</y>
+     <width>360</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei</family>
+    </font>
+   </property>
+   <property name="toolTipDuration">
+    <number>-1</number>
+   </property>
+   <property name="midLineWidth">
+    <number>0</number>
+   </property>
+   <property name="text">
+    <string>// TIME: 2023-04-30 00:00:00</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="bg">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>3840</width>
+     <height>2160</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <zorder>bg</zorder>
+  <zorder>screen_14</zorder>
+  <zorder>screen_15</zorder>
+  <zorder>screen_16</zorder>
+  <zorder>screen_1</zorder>
+  <zorder>screen_10</zorder>
+  <zorder>screen_11</zorder>
+  <zorder>screen_12</zorder>
+  <zorder>screen_13</zorder>
+  <zorder>screen_2</zorder>
+  <zorder>screen_3</zorder>
+  <zorder>screen_4</zorder>
+  <zorder>screen_5</zorder>
+  <zorder>screen_6</zorder>
+  <zorder>screen_7</zorder>
+  <zorder>screen_8</zorder>
+  <zorder>screen_9</zorder>
+  <zorder>screen_17</zorder>
+  <zorder>screen_1_No</zorder>
+  <zorder>screen_1_time</zorder>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QVideoWidget</class>
+   <extends>QWidget</extends>
+   <header>qvideowidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
